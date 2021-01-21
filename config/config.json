@@ -1,0 +1,8 @@
+{
+    "development": {
+        "JWT_SECRET": "SECRET#123"
+    },
+    "production": {
+    	"JWT_SECRET": "SECRET#123"
+    }
+}
